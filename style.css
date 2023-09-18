@@ -1,0 +1,252 @@
+body{
+    margin:0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+nav {
+    display:flex;
+    justify-content: space-around;
+}
+.nav-align{
+    display:flex;
+    align-items: center;
+}
+.nav-align span{
+    color:hotpink;
+}
+.border{
+    background-color:lightgray;
+    padding: 10px;
+    border-radius:5px;
+}
+.nav-align-one ul{
+    display:flex;
+    align-items: center;
+}
+.nav-align-one ul li{
+    list-style-type:none;
+    margin:5px;
+}
+
+header{
+    background-color:#fff8f3;
+    background-image: url('images/Group 14.png');
+}
+section{
+    
+    height:700px;
+    margin-bottom: 10px;
+}
+
+.text-size{
+        font-size: 30px;
+        
+    }
+.text-color{
+        color:violet;
+        font-weight: bolder;
+        font-size: 30px;
+
+    }
+
+.half-div{
+        margin-top:10%;
+    }
+
+.half-div a{
+        text-decoration: none;
+        background-color: #DC5470;
+        color:white;
+        padding:10px;
+        border-radius: 5px;
+        margin-top: 10px;
+    }
+
+.alignment{
+        display:flex;
+        justify-content:space-around;
+        align-items:center;
+
+    }
+
+.img-size img{
+        width: 90%;
+        
+        
+        
+    }
+.btn{
+        margin-left:45%;
+    }
+
+    .instagram{
+       text-align: center;
+    }
+     .instagram-title{
+         margin:30px;
+         font-weight: 700;
+         font-size: 35px;
+     }
+     .instagram-description{
+         color:#757575;
+         font-size:18px;
+         margin:30px;
+     }
+     .instagram-info-container{
+         display:flex;
+         justify-content: space-around;
+     }
+
+     .image-style-one{
+        background-color:skyblue;
+        height: 380px;
+        width: 280px;
+        margin: 10px;
+     }
+     .image-style-two{
+        background-color:skyblue;
+        height: 380px;
+        width: 280px;
+        margin: 10px;
+     }
+     .image-style-three{
+        background-color:skyblue;
+        height: 380px;
+        width: 280px;
+        margin: 10px;
+     }
+     .image-style-four{
+        background-color:skyblue;
+        height: 380px;
+        width: 280px;
+        margin: 10px;
+     }
+
+     .features {
+        margin-top: 130px;
+        display: flex;
+        gap: 100px;
+        justify-content: center;
+    }
+    
+    .feature-img img{
+        height: 60%;
+        margin-left: 90px;
+    }
+
+    .badge{
+        border-radius: 8px;
+        padding: 40px;
+        position: relative;
+        bottom: 200px;
+        left:-200px;
+    }
+
+    .badge img{
+        width:60%;
+    }
+
+    .color{
+        color: violet;
+    }
+
+    .flex-item{
+        display: flex;
+        justify-content:space-evenly;
+        
+    }
+
+    .flex-items{
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 30px;
+    }
+    .item1{
+        display: flex;
+        align-items: center;
+        
+    }
+
+    .item2{
+        display: flex;
+        align-items: center;
+        
+    }
+    .item3{
+        display: flex;
+        align-items: center;
+        
+    }
+    .border-design{
+        border:1px solid hotpink;
+        border-radius:25px;
+        padding:10px;
+    }
+    .item4{
+        display: flex;
+        align-items: center;
+        
+    }
+    .item5{
+        display: flex;
+        align-items: center;
+        
+    }
+
+    .items1{
+        display: flex;
+        align-items: center;
+        
+    }
+    .items2{
+        display: flex;
+        align-items: center;
+        
+    }
+
+    .items3{
+        display: flex;
+        align-items: center;
+        
+    }
+
+    .items4{
+        display: flex;
+        align-items: center;
+        
+    }
+    
+    footer{
+        background-color:black;
+        height: 370px;
+        
+    
+    }
+
+    .arrange{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        
+    }
+    .arrange h1{
+        color:white;
+        margin-left: 3px;
+    }
+    .arrange img{
+        margin:5px;
+    }
+    .arrange span{
+        color:hotpink;
+    }
+    .arrange p{
+        color:white;
+        margin:15px;
+    }
+
+    .align{
+        text-align:center;
+        color:white;
+    }
+    
+    
